@@ -1,0 +1,99 @@
+
+P2 -> 
+Claim Matrix
+3 2 2 
+0 0 0 
+3 1 4 
+4 2 2 
+
+Allocation Matrix
+1 0 0 
+0 0 0 
+2 1 1 
+0 0 2 
+
+Request Matrix
+2 2 2 
+0 0 0 
+1 0 3 
+4 2 0 
+
+Available Vector
+6 2 3 
+
+**************************************
+
+P2 -> P1 -> 
+Claim Matrix
+0 0 0 
+0 0 0 
+3 1 4 
+4 2 2 
+
+Allocation Matrix
+0 0 0 
+0 0 0 
+2 1 1 
+0 0 2 
+
+Request Matrix
+0 0 0 
+0 0 0 
+1 0 3 
+4 2 0 
+
+Available Vector
+7 2 3 
+
+**************************************
+
+P2 -> P1 -> P3 -> 
+Claim Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+4 2 2 
+
+Allocation Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 2 
+
+Request Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+4 2 0 
+
+Available Vector
+9 3 4 
+
+**************************************
+
+P2 -> P1 -> P3 -> P4
+Claim Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+Allocation Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+Request Matrix
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+Available Vector
+9 3 6 
+
+**************************************
+
+The sequence for preventing deadlock is: 
+P2 -> P1 -> P3 -> P4

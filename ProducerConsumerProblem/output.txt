@@ -1,0 +1,49 @@
+
+Producer: production done, exiting...
+
+Main: Child 0 has stopped, normally...
+
+Consumer 3 consumed 107730 items
+
+Main: Child 3 has stopped, normally...
+
+Consumer 10 consumed 95077 items
+
+Main: Child 10 has stopped, normally...
+
+Consumer 7 consumed 106325 items
+
+Main: Child 7 has stopped, normally...
+
+Consumer 9 consumed 108062 items
+
+Main: Child 9 has stopped, normally...
+
+Consumer 4 consumed 99682 items
+
+Main: Child 4 has stopped, normally...
+
+Consumer 8 consumed 97684 items
+
+Main: Child 8 has stopped, normally...
+
+Consumer 1 consumed 91663 items
+
+Main: Child 1 has stopped, normally...
+
+Consumer 5 consumed 93514 items
+
+Main: Child 5 has stopped, normally...
+
+Consumer 2 consumed 96788 items
+
+Main: Child 2 has stopped, normally...
+
+Consumer 6 consumed 103475 items
+
+Main: Child 6 has stopped, normally...
+
+Main: Total Consumption =  1000000
+
+Main: Parent with pid: 2607 is exiting.
+

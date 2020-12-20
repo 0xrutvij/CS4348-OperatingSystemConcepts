@@ -1,0 +1,25 @@
+Tat for FCFS = 4100.12
+NorTat for FCFS = 572.738
+
+Tat for RR = 6121.52
+NorTat for RR = 614.464
+
+Tat for HRRN = 3050.24
+NorTat for HRRN = 248.303
+
+Tat for FB = 6373.32
+NorTat for FB = 619.078
+
+
+Tat for FCFS = 4593.08
+NorTat for FCFS = 647.245
+
+Tat for RR = 6768.08
+NorTat for RR = 688.367
+
+Tat for HRRN = 3398.66
+NorTat for HRRN = 272.422
+
+Tat for FB = 6856.67
+NorTat for FB = 686.92
+
